@@ -1,0 +1,127 @@
+imag{
+padding-top:20px;
+padding-right:20px;
+padding-bottom:20px;
+padding-left:20px;
+
+border:solid 2px gray;
+width:100px;
+height:100px;
+background-color:white;
+}
+body{
+background-color:azure
+
+*******************************************************************
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet">
+</head>
+<body>
+<h1>water puns</h1>
+<p> why are rivers amazing roommates?they go with the flow.
+</p>
+</body>
+
+*****************************************************************
+.flat{
+height:50px;
+width:100px;
+}
+.round{
+height:100px;
+width:100px;
+}
+**********************************************************************
+img{
+border-radius:10px;
+margin-top:8px;
+margin-left:2px;
+margin-right:2px;
+}
+</style>
+</head>
+<body>
+<img src="https://mimo.app/r/insta.svg">
+<br>
+<img src="https://mimo.app/r/helen.png">
+<h1>hotrod-helen</h1>
+<p><em>verified account</em></p>
+<p>cars so hot you can fry an egg on them.</p>
+<img src="https://mimo.app/r/lada.png">
+<img src="https://mimo.app/r/buggy.png">
+<img src="https://mimo.app/r/coupe.png">
+<img src="https://mimo.app/r/ford.png">
+</body>
+</html>
+
+*******************************************************************
+<!doctype html>
+<html>
+<head>
+<style>
+body{
+font-family:"helvetica neue";
+text-align:center;}
+h1{
+color:darkblue;
+}
+img{
+border-radius:10px;
+margin-top:8px;
+margin-left:2px;
+************************************************************
+<!doctype html>
+<html>
+<head>
+<style>
+h3{
+color:green;
+}
+</style>
+</head>
+<body>
+<h1>contents</h1>
+<h3>the etymology of the word green</h3>
+<h3>where do green pigments come from</h3>
+<h3>the wavelength of the color green</h3>
+</body>
+</html>
+************************************************************
+we creat a variable with the word var
+
+script.js
+var city ( usa pra escrever somente um nome na caixa)
+var homeCity ( usa pra escrever mais nomes na caixa)
+var car1 (para adicionar numeros)
+var city="chicago";
+var city="winter is coming";
+var job ="plumber";
+***************************************************************
+the order of the instructions matters because the computer follows the instructions line by line.
+creat step 1 first, step 2 second and step 3
+var step1="collect pants";
+var step2="?";
+var step3="profit";
+
+*******************************************
+script.js
+console.log("hello,world!");
+console.log("3,2,1");
+console.log("go!");
+**************************
+script.js
+var greeting="hello,world!";
+console.log(greeting);
+
+
+
+
+
+
+
+
+
+
+
